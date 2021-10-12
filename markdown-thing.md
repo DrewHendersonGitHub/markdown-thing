@@ -3,4 +3,8 @@ Let me tell you about **HOT DOGS**. They are a *very good* food. hot dogs are ma
 - Bun
 - Dog
 
-hot dog website: [Here it is](www.hotdog.com)
+hot dog website: [Here it is](www.hotdog.com).
+
+Here's a hotdog fun fact: There are no dogs inside a hotdog.
+
+> hotdog
